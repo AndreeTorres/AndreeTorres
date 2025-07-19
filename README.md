@@ -75,4 +75,4 @@ Universidad Centroamericana José Simeón Cañas (UCA)
 
 ## 📄 CV
 
-You can view my full resume [here](./assets/cv-miguel-torres.pdf).
+You can view my full resume [here](./assets/RESUME-MIGUELTORRES.pdf).
